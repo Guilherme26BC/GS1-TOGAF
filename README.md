@@ -1,2 +1,4 @@
 # GS1-TOGAF
-GS1- Togaf e git 
+# Grupo
+-   550282 - Guilherme Bezerra Carvalho
+-   99748 - Rodolfo Sanches Cima
